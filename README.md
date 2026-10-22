@@ -1,2 +1,2 @@
 # PROYECTO-INTERMODULAR
-Proyecto intermodular, pendiente su nombre y archivos principales.
+Llavea, una aplicación Android para el alquiler de vehículos
